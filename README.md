@@ -40,21 +40,21 @@ Geographic sales analysis, product category analysis, sales manager ranking, wee
 * Establish a regular sales dashboard reporting process to monitor performance and support 
 ## 9.	Project Evidence
 ---
-image1 <img width="593" height="214" alt="image" src="https://github.com/user-attachments/assets/93ee73ef-1638-437e-a010-31ab66b9059f" />
+image 1 <img width="593" height="214" alt="image" src="https://github.com/user-attachments/assets/93ee73ef-1638-437e-a010-31ab66b9059f" />
 ---
-image2 <img width="572" height="194" alt="image" src="https://github.com/user-attachments/assets/b591e464-9ad2-4756-8794-284bfeb74e1d" />
+image 2 <img width="572" height="194" alt="image" src="https://github.com/user-attachments/assets/b591e464-9ad2-4756-8794-284bfeb74e1d" />
 ---
-image3 <img width="632" height="240" alt="image" src="https://github.com/user-attachments/assets/26948833-0561-490b-97b6-1173feb9be85" />
+image 3 <img width="632" height="240" alt="image" src="https://github.com/user-attachments/assets/26948833-0561-490b-97b6-1173feb9be85" />
 ---
-image4 <img width="593" height="200" alt="image" src="https://github.com/user-attachments/assets/0c759b79-29c3-4773-aeeb-0adad8c4b8db" />
+image 4 <img width="593" height="200" alt="image" src="https://github.com/user-attachments/assets/0c759b79-29c3-4773-aeeb-0adad8c4b8db" />
 ---
-image5 <img width="555" height="225" alt="image" src="https://github.com/user-attachments/assets/44ef34a8-88b3-40bf-aeae-15d31a2c8f20" />
+image 5 <img width="555" height="225" alt="image" src="https://github.com/user-attachments/assets/44ef34a8-88b3-40bf-aeae-15d31a2c8f20" />
 ---
-image6 <img width="718" height="233" alt="image" src="https://github.com/user-attachments/assets/827ae125-a8ec-424a-a866-573e337a48ee" />
+image 6 <img width="718" height="233" alt="image" src="https://github.com/user-attachments/assets/827ae125-a8ec-424a-a866-573e337a48ee" />
 ---
-image7 <img width="418" height="68" alt="image" src="https://github.com/user-attachments/assets/89487e2c-d925-44fd-9afc-e3ff8c91bc41" />
+image 7 <img width="418" height="68" alt="image" src="https://github.com/user-attachments/assets/89487e2c-d925-44fd-9afc-e3ff8c91bc41" />
 ---
-image8 <img width="644" height="357" alt="image" src="https://github.com/user-attachments/assets/b18844d7-c0c1-4f64-bfed-9f30ba410537" />
+image 8 <img width="644" height="357" alt="image" src="https://github.com/user-attachments/assets/b18844d7-c0c1-4f64-bfed-9f30ba410537" />
 
 
  
